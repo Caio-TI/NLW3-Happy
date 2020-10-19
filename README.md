@@ -1,5 +1,7 @@
 # NLW3-Happy
 
+https://github.com/Bonizario/happy/blob/master/assets/banner.png?raw=true
+
 💻 Projeto
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz! 💜
 
