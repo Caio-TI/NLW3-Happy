@@ -3,11 +3,8 @@
 <a id="user-content-----" href="/Caio-TI/NLW3-Happy/blob/main/README.md#----"></a>
 <a id="user-content-----" href="/Caio-TI/NLW3-Happy/blob/main/README.md#----"></a> 
 <a href="https://github.com/Caio-TI/NLW3-Happy/blob/main/.github/logo.svg?raw=true"><img alt="Happy" title="Happy" src="https://github.com/Caio-TI/NLW3-Happy/blob/main/.github/logo.svg?raw=true"" style="max-width:100%;"></a> </h1>
-
-</p>
-
 <br>
-</p></article>
+</article>
 
 </h1>
 <p align="center">
